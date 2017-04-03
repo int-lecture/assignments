@@ -1,6 +1,12 @@
 # Assignment für die Vorbereitung des 4. INT-Workshoptags
 
-Für die Lehrveranstaltung am 10.04. müssen Sie "fit" sein in http und Apache httpd, sowie eine simple PHP-basierende Chat-Anwendung konzipiert haben.
+Für die Lehrveranstaltung am 10.04. müssen Sie "fit" sein in http und Apache httpd, sowie eine simple PHP-basierende Chat-Anwendung konzipiert haben. Zusätzlich ist es hilfreich, wenn Sie mit den Developer Tools in Chrome umgehen können. 
+
+## Chrome Dev Tools 
+
+Nutzen Sie die Möglichkeiten, die die Browser bieten, um den html-Code zu debuggen! Sehr hilfreich sind dabei die Developer Tools. Hier gebe ich einen Startpunkt für Chrome an, es gibt aber auch vergleichbare Angebote für die anderen Browser (Firefox, Sarafi). 
+
+* [Einfaches Tutorial für Chrome Dev Tools mit weiterführenden Links am Ende] (https://www.labnol.org/software/chrome-dev-tools-tutorial/28131/)
 
 ## http
 
