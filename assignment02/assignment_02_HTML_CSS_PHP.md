@@ -26,3 +26,7 @@ Ergänzen Sie Ihre Webseite um die Möglichkeit, sich als Kunden zu registrieren
  - Speicherung der Daten in einer Datei (bitte kein SQL, sondern "plain") 
  - Anzeige der erfolgreichen Speicherung
  - (Optional) Versenden einer Bestätigungs-E-Mail zur Sicherstellung der Angabe der korrekten E-Mail-Adresse
+ 
+ ## Speicherung der Webseiten-Daten
+ 
+ Denken Sie daran, die Source-Dateien Ihrer Webseite in Ihr Repo zu pushen!
