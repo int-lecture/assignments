@@ -81,3 +81,5 @@ Nachdem der Server die Liste der Nachrichten gesendet hat, löscht er alle Nachr
 ### Testen des Servers
 
 Testen Sie den Server mit Hilfe des Kommandozeilenwerkzeugs `curl`. Während der Vorlesung steht Ihnen eine Referenzimplementierung zur Verfügung zum Testen Ihre Ideen zur Verfügung, d.h. wir werden Ihnen einen Server und einen Client zur Verfügung stellen, der das Protokoll wie beschrieben umsetzt.
+
+Testen Sie Ihre Implementierung auch mit dem zur Verfügung gestellten Java-Client.
