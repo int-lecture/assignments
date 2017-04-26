@@ -27,7 +27,7 @@ Zur Vorbereitung der Implementierung hier noch einmal die Festlegung der Schnitt
 
 ### Senden einer Nachricht
 
-Nachrichten werden bei der URL `/send` per `PUT` als JSON-Dokument abgegeben. Eine beispielhafte Nachricht sieht wie folgt aus:
+Nachrichten werden bei der URL `/send` per `PUT` als JSON-Dokument (Mime-Type: `application/json`) abgegeben. Eine beispielhafte Nachricht sieht wie folgt aus:
 
 ```json
 {
@@ -82,4 +82,4 @@ Nachdem der Server die Liste der Nachrichten gesendet hat, löscht er alle Nachr
 
 Testen Sie den Server mit Hilfe des Kommandozeilenwerkzeugs `curl`. Während der Vorlesung steht Ihnen eine Referenzimplementierung zur Verfügung zum Testen Ihre Ideen zur Verfügung, d.h. wir werden Ihnen einen Server und einen Client zur Verfügung stellen, der das Protokoll wie beschrieben umsetzt.
 
-Testen Sie Ihre Implementierung auch mit dem zur Verfügung gestellten Java-Client.
+Testen Sie Ihre Implementierung auch mit dem zur Verfügung gestellten [Java-Client](https://github.com/int-lecture/chat-client).
