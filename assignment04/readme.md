@@ -64,14 +64,14 @@ Wenn für den Benutzer keine Nachrichten vorhanden sind, antwortet der Server mi
   {
     "from": "bob",
     "to" : "jim",
-    "date": "2017-03-30T17:00:00",
+    "date": "2017-03-30T17:00:00Z",
     "text": "Hallo Jim, wie geht es Dir?",
     "sequence": 6
   },
   {
     "from": "tom",
     "to" : "jim",
-    "date": "2017-03-30T17:10:00",
+    "date": "2017-03-30T17:10:00Z",
     "text": "Wollen wir heute INT schwänzen?",
     "sequence": 7
   }
