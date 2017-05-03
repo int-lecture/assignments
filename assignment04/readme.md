@@ -33,10 +33,12 @@ Nachrichten werden bei der URL `/send` per `PUT` als JSON-Dokument (Mime-Type: `
 {
   "from": "bob",
   "to" : "jim",
-  "date": "2017-03-30T17:00:00",
+  "date": "2017-03-30T17:00:00Z",
   "text": "Hallo Jim, wie geht es Dir?"
 }
 ```
+
+Das Datum ist gemäß [ISO 8601](https://de.wikipedia.org/wiki/ISO_8601) formatiert.
 
 Sind die Daten nicht korrekt formatiert, sendet der Server den Statuscode 400. Zusätzliche Felder werden aber ignoriert, damit man später das Protokoll einfacher erweitern kann.
 
@@ -44,7 +46,7 @@ Sind die Daten korrekt formatiert, sendet der Server den Status 201 und ein Antw
 
 ```json
 {
-  "date": "2017-03-30T17:00:00",
+  "date": "2017-03-30T17:00:00Z",
   "sequence": 78
 }
 ```
