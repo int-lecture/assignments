@@ -10,23 +10,23 @@ w3schools.org kann ich sehr empfehlen, da kann man auch gleich immer selbst Sach
 
 Gute Quellen, um sich in HTML einzuarbeiten, sind etwa:
 
- * [de.html.net/tutorials/html] (http://de.html.net/tutorials/html)
- * [www.selfhtml.org] (http://de.selfhtml.org) - insbesondere das html-Tutorial und die HTML5-Einführung
- * [www.w3schools.com] (http://www.w3schools.com) --> HTML Tutorial
+ * [de.html.net/tutorials/html](http://de.html.net/tutorials/html)
+ * [www.selfhtml.org](http://de.selfhtml.org) - insbesondere das html-Tutorial und die HTML5-Einführung
+ * [www.w3schools.com](http://www.w3schools.com) --> HTML Tutorial
 
 ## CSS
 
 CSS ist für das "Design" von Webseiten verantwortlich.
 
- * [de.html.net/tutorials/css] (http://de.html.net/tutorials/css)
- * [www.w3schols.com] (http://www.w3schools.com) --> CSS Tutorial
+ * [de.html.net/tutorials/css](http://de.html.net/tutorials/css)
+ * [www.w3schols.com](http://www.w3schools.com) --> CSS Tutorial
 
 ## PHP
 
 PHP ist die älteste (und einfachste) Möglichkeit, Webseiten mit serverseitiger Logik zu versehen
 
- * [de.html.net/tutorials/php] (http://de.html.net/tutorials/php) bis Lektion 13
- * [www.w3schools.com] (http://www.w3schools.com) --> PHP Tutorial
+ * [de.html.net/tutorials/php](http://de.html.net/tutorials/php) bis Lektion 13
+ * [www.w3schools.com](http://www.w3schools.com) --> PHP Tutorial
 
 
 Nutzen Sie die Tutorials! 
