@@ -61,7 +61,7 @@ Eine beispielhafte Nachricht sieht wie folgt aus:
 ```json
 {
   "token": "YXNkaCBhc2R6YWllIHVqa2RzaCBzYWlkaGFleiA",
-  "pseudonym": "hans"
+  "user": "bob@web.de"
 }
 ```
 
