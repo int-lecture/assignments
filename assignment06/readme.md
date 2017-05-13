@@ -28,7 +28,8 @@ Eine beispielhafte Nachricht sieht wie folgt aus:
 ```json
 {
   "user": "bob@web.de",
-  "password": "halloIchbinBob"
+  "password": "halloIchbinBob",
+  "pseudonym": "bob"
 }
 ```
 
@@ -61,7 +62,7 @@ Eine beispielhafte Nachricht sieht wie folgt aus:
 ```json
 {
   "token": "YXNkaCBhc2R6YWllIHVqa2RzaCBzYWlkaGFleiA",
-  "user": "bob@web.de"
+  "pseudonym": "bob"
 }
 ```
 
