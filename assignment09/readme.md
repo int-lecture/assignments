@@ -1,4 +1,13 @@
-# Assignment 9 - Home-Assignment zur Vorbereitung des zweiten Frontent-Workshops 
+# Assignment 9 - Assignment zur Vorbereitung des zweiten Frontent-Workshops 
+
+Ziel für heute sind vier Dinge: 
+
+- Anbinden Ihres Frontends and Ihr Backend
+- Speicherung der Konfigurationsdaten lokal im Browser, Einstellung über einen separaten Menüpunkt
+- "Full responsiveness" - tunen Sie Ihr Frontend so, dass sie sowohl in einem Browser als auch auf einem Mobilgerät gut funktioniert (Beispiel: Moodle)
+- Testen Sie Ihre Anwendungen ausgiebig
+
+# Hier das Home-Assignment
 
 ## AJAX
 
